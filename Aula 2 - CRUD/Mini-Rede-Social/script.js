@@ -67,7 +67,3 @@ function mostrarPosts(){
         listaPosts.append(cardPost)
     })
 }
-//UPDATE
-function editarPosts(){}
-//DELETE
-function excluirPosts(){}

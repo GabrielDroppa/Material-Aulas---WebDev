@@ -14,3 +14,22 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## O que fazer no projeto
+
+Link API 
+https://api.github.com/search/repositories?q=
+
+## Passos
+Configurar as rotas
+Cria os componentes da home
+Faz o Fetch da API
+
+## Passos de Rotas
+Criar as rotas em um arquivo routes.jsx
+Configurar o RouterProvider no main.jsx
+Adicionar o links com Link to na NavBar
+Adicionar o Outlet no componente de layout(App.jsx)
+
+
+Colocar API's de Node.js, Python and React

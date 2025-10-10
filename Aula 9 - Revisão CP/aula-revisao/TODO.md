@@ -1,0 +1,6 @@
+- [x] Create src/routes/routes.jsx with Routes and Route for /, /about, /contact
+- [x] Update src/main.jsx to use RouterProvider with routes
+- [x] Update src/App.jsx to include Outlet for child routes
+- [x] Update src/components/NavBar.jsx to use Link instead of <a>, add Home link
+- [x] Enhance src/pages/Home.jsx with search input, state, useEffect for GitHub API fetch, and repo display
+-  [] Run npm run dev to test the app
